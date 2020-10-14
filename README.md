@@ -1,6 +1,6 @@
 # Ngrx Demo
 
-![Ngrx Logo](https://github.com/d3vkk/ngrx-demo/blob/master/ngrx-logo.png)
+![Ngrx Logo](https://github.com/d3vkk/ngrx-demo/blob/master/ngrx.png)
 
 Ngrx Demo from Official Docs
 
